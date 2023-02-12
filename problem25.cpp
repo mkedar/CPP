@@ -45,3 +45,15 @@ int main()
 
     return 0;
 }
+
+/*
+What is your name? Adam Smith
+What is your age? 24
+What city do you live in? New York
+Where do you go to college? Columbia
+What is your profession? Writer
+What type of animal? Dog
+What is the name of the animal? Sunshine
+There was once a person named Adam Smith who lived in New York. At the age of 24, Adam Smith went to college at Columbia. 
+Adam Smith graduated and went to work as a Writer. Then, Adam Smith adopted a(n) Dog named Sunshine. They both lived happily ever after!
+*/
