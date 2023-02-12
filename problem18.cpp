@@ -40,3 +40,18 @@ int main (){
 
     return 0;
 }
+
+
+/*
+principal: 
+1000
+interestRate: 
+4.25
+compoundtimes: 
+12
+Interest Rate:           4.25%
+Times Compounded:        12   
+Principal:              $1000 
+Interest:               $43.34
+Amount in Savings:      $1043.34
+*/
