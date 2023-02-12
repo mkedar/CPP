@@ -14,8 +14,11 @@ using namespace std;
 
 
 int main(){
+    // intalize varaibles 
     string month1, month2, month3;
     double data1, data2, data3;
+
+    // ask for input and assign input to varaibles
     cout << "What is the name of 3 months?" << endl;
     cin >> month1;
     cin >> month2;
@@ -26,8 +29,10 @@ int main(){
     cin >> data2;
     cout << "What is the amount of rain in inches on: " << month3 << "." << endl;
     cin >> data3;
+    
+    // display average
     cout << "The average rainfall for " << month1 << ", " << month2 << ", and " << month3 << " is " << (data1 + data2 + data3)/3 << " inches." << endl;  
- 
+
     return 0;
     
 }
