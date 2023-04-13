@@ -33,11 +33,11 @@ int main()
 // ********************************************************
 int *reverseArray(int arr[], int size)
 {
-    int* revArr = new int[size];
+    int* reverse = new int[size];
     for (int i = 0; i < size; i++){
-        revArr[i] = arr[size - 1 - i];
+        reverse[i] = arr[size - 1 - i];
     }
-    return revArr;
+    return reverse;
 }
 
 // ********************************************************
